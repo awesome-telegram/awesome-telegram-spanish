@@ -24,9 +24,7 @@ Una lista de los mejores canales, grupos y bots de Telegram en español.
 
 ## Bots Telegram
 
-| Nombre | Descripción | Telegram | Detalles |
-|--------|-------------|----------|----------|
-| - | - | - | - |
+- [Cyber Collector](https://t.me/cybercollectorbot) — Bot de Telegram gratuito para descargar vídeos de TikTok (sin marca de agua), Instagram Reels/Stories, YouTube+Shorts, X/Twitter, Facebook. Sin registro, sin anuncios. [Sitio web](https://cybercollector.hitkey.io)
 
 ## Contribuir
 
